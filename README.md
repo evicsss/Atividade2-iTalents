@@ -45,7 +45,7 @@ A aplicação "Lista de Tarefas" é um gerenciador de tarefas simples e intuitiv
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/evicsss/todo
+   git clone https://github.com/evicsss/Atividade2-iTalents
 
 2. **Navegue até a pasta do projeto**
    cd todo
